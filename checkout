@@ -1,0 +1,49 @@
+input#pagseguro-card-holder-birth-date {
+    padding: 14px !important;
+    font-size: 14px !important;
+}
+
+
+
+input#pagseguro-card-number {
+    margin-top: 23px !important;
+margin-right: 5px !important;
+}
+
+input#pagseguro-card-holder-cpf {
+    margin-top: 23px !important;
+margin-left: 5px !important;
+}
+
+
+select#pagseguro-card-installments {
+    padding-bottom: 10px !important;
+margin-left: 5px !important;
+	border-radius: 3px;
+	border-color: #171717;
+}
+
+.wcf-embed-checkout-form .woocommerce-checkout #payment div.payment_box .form-row {
+    margin: 0 0 1.3em;
+    padding-right: 6px !important;
+}
+
+input#pagseguro-card-holder-phone{
+	    padding: 14px !important;
+    font-size: 14px !important;
+	margin-top: 20px !important;
+margin-right: 5px !important;
+}
+
+input#pagseguro-card-expiry{
+
+padding: 14px !important;
+    font-size: 14px !important;
+}
+
+input#pagseguro-card-cvc
+{
+
+padding: 14px !important;
+    font-size: 14px !important;
+}
